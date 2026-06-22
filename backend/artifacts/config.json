@@ -1,0 +1,1 @@
+{"img_size": 224, "vocab_size": 1154, "max_len": 60, "pad_idx": 0, "sos_idx": 1, "eos_idx": 2}
