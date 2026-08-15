@@ -37,10 +37,11 @@ datasets do not yet exist.
 
 ### System Screenshots
 
-| Landing Page | Upload Interface | Results Dashboard |
-|---|---|---|
-| ![System 1](system%20screenshots/1.png) | ![System 2](system%20screenshots/2.png) | ![System 3](system%20screenshots/3.png) |
-| ![System 4](system%20screenshots/4.png) | ![System 5](system%20screenshots/5.png) | |
+![Landing Page](system%20screenshots/1.png)
+![Features](system%20screenshots/2.png)
+![Architecture](system%20screenshots/3.png)
+![Uploader](system%20screenshots/4.png)
+![Metrics](system%20screenshots/5.png)
 
 ### Example grounding outputs
 
