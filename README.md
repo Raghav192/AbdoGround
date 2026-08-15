@@ -35,6 +35,13 @@ datasets do not yet exist.
    regions behind the generated text.
 4. The report and heatmap can be exported as a PDF.
 
+### System Screenshots
+
+| Landing Page | Upload Interface | Results Dashboard |
+|---|---|---|
+| ![System 1](system%20screenshots/1.png) | ![System 2](system%20screenshots/2.png) | ![System 3](system%20screenshots/3.png) |
+| ![System 4](system%20screenshots/4.png) | ![System 5](system%20screenshots/5.png) | |
+
 ### Example grounding outputs
 
 | X-ray + per-word attention |
